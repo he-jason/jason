@@ -1,4 +1,5 @@
 123
+<<<<<<< HEAD
 456
 # On branch master
 # Changes not staged for commit:
@@ -9,3 +10,5 @@
 #
 no changes added to commit (use "git add" and/or "git commit -a")
 789
+=======
+>>>>>>> dev
